@@ -1,0 +1,8 @@
+*~
+*.pdf
+*.aux
+*.log
+*/
+!writeup_plots/
+!writeup_plots/*
+!animated_gif/
